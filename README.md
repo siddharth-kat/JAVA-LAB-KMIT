@@ -2,6 +2,7 @@
 CONTAINS JAVA PROGRAMS FOR UPCOMING LAB INTERNAL 1(NPS-IT A,CSM A,CSM B )
 
 --------------INSIDE THE FOLDER (tesseract_programs_for_lab1)---------------
+
 Test01- NUMBER PALINDROME.
 
 Test02- HARSHAD NUMBER.
